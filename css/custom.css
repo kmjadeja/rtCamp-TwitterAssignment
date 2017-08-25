@@ -1,0 +1,64 @@
+/*
+	Custom.css
+	=================================================
+
+	Created By 	:	Krunalsinh M. Jadeja;
+	Last Moify	:	17 August 2017 06:50 PM;
+
+
+	=================================================
+
+	Description
+	---------------------------------------------------------------------
+	body 				: Set Full Screen Image;
+	.cus_container		: set background image [ opacity ];
+	---------------------------------------------------------------------
+*/
+.my_padding
+{
+	padding-bottom: 10px;
+}
+.no-margin {
+	margin: 0px;
+}
+body
+{
+	background: url("../images/backGround.png") top center;
+}
+
+.letterSpacing {
+	letter-spacing: 1px;
+	margin-top: 10px;
+}
+.cus_container
+{
+	margin-top: 30px;
+	background-image:url(../images/opacity.png);
+	height: 100% !important; 
+	border: 1px dotted #f6f6f6;
+	padding-bottom: 10px;
+} 
+
+/*
+
+	Custom CSS For Flex Slider
+
+}*/
+.tweet-right {
+	padding-right: 10px;
+	display: table-cell;
+	vertical-align: top;
+	clear: both;
+}
+.tweet-list {
+	padding: 0;
+  	list-style: none;
+}
+.tweet-slider {
+	min-height:100%; 
+}
+
+.display_none{
+	list-style: none;
+}
+
