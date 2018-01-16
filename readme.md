@@ -45,7 +45,6 @@ rtCamp / Web Engineer / Assignment / Twitter Challenge
 
 ### About Me
 ----------
-> + Name 		: Krunalsinh M. Jadeja
+> + Name 		: [Krunalsinh M. Jadeja](https://www.linkedin.com/in/kmjadeja)
 > - Email		: kmjadeja@hotmail.com
-> - Profile : [LinkedIn](https://www.linkedin.com/in/kmjadeja)
 > * Visit 	: [SHDesk](http://www.shdesk.com) 
